@@ -50,7 +50,11 @@ Tryout::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
+<<<<<<< HEAD
    root :to => 'welcome#index'
+=======
+  root :to => 'welcome#index'
+>>>>>>> 4fa8dc872b31889c865950829796ee1b86eac7ff
 
   # See how all your routes lay out with "rake routes"
 
